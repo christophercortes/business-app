@@ -17,6 +17,7 @@ export default function Profile() {
                     alt="Profile Image"
                     width={400}
                     height={400}
+                    loading="eager"
                     className="rounded-xl"
                 />
             </div>

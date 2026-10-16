@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Header() {
     return (
-        <header className="w-full bg-gray-50">
+        <header className="w-full bg-gray-800/40">
             <div className="mx-auto flex max-w-7xl items-center justify-between px-8 py-10 md:px-12">
                 <Link href="/"
                     className="font-serif text-xl tracking-tighter scale-y-110 text-gray-900 hover:opacity-80 transition-opacity">

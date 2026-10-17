@@ -10,11 +10,11 @@ export const tech: Tech[] = [
         name: "Adobe",
         logo: "/technology/adobe.png",
     },
-    {
-        id: 2,
-        name: "ChatGPT",
-        logo: "/technology/chatgpt.png",
-    },
+    // {
+    //     id: 2,
+    //     name: "ChatGPT",
+    //     logo: "/technology/chatgpt.png",
+    // },
     {
         id: 3,
         name: "Git",

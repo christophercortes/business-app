@@ -10,7 +10,7 @@ export default function HomeHero() {
                         </p>
                     </div>
                 </div>
-                <h1 className="text-3xl font-bold leading-[1.1] tracking-tight text-gray-950 md:text-6xl lg:text-7xl">
+                <h1 className="text-3xl font-bold leading-[1.1] tracking-tight text-gray-950 md:text-5xl lg:text-6xl">
                     Software que
                     <br />
                     <span className="block">

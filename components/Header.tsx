@@ -15,10 +15,10 @@ export default function Header() {
                 </Link>
                 <nav aria-label="Main navigation" className="hidden md:block">
                     <ul className="flex items-center gap-x-10 text-[13px] text-gray-800">
-                        <li><Link href="/work" className="transition-colors hover:text-gray-500">Work</Link></li>
-                        <li><Link href="/about" className="transition-colors hover:text-gray-500">About</Link></li>
-                        <li><Link href="/services" className="transition-colors hover:text-gray-500">Services</Link></li>
-                        <li><Link href="/contact" className="transition-colors hover:text-gray-500">Contact</Link></li>
+                        <li><Link href="/work" className="transition-colors hover:text-gray-500">Proyectos</Link></li>
+                        <li><Link href="/about" className="transition-colors hover:text-gray-500">Sobre mí</Link></li>
+                        <li><Link href="/services" className="transition-colors hover:text-gray-500">Servicios</Link></li>
+                        <li><Link href="/contact" className="transition-colors hover:text-gray-500">Contacto</Link></li>
                     </ul>
                 </nav>
 

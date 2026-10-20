@@ -5,7 +5,7 @@ export default function Profile() {
         <section className="mx-auto flex max-w-7xl flex-col items-start gap-12 px-8 py-12 md:flex-row md:items-center md:justify-between md:px-12">
             <div className="max-w-xl">
                 <h1 className="font-sans text-5xl font-bold uppercase tracking-tighter scale-y-105 origin-left text-gray-900 md:text-6xl">
-                    Software Developer
+                    Desarrollador de Software
                 </h1>
                 <p className="mt-4 text-lg text-gray-600">
                     Crafting clean interfaces and interactive digital experiences.

@@ -7,14 +7,14 @@ export default function Header() {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
-        <header className="relative z-50 w-full bg-gray-800/40">
+        <header className="relative z-50 w-full">
             <div className="mx-auto flex max-w-7xl items-center justify-between px-8 py-10 md:px-12">
                 <Link href="/"
-                    className="font-serif text-xl tracking-tighter scale-y-110 text-gray-900 transition-opacity hover:opacity-80">
+                    className="font-serif text-3xl tracking-tighter scale-y-110 text-white transition-opacity hover:opacity-80">
                     Christopher Cortes
                 </Link>
                 <nav aria-label="Main navigation" className="hidden md:block">
-                    <ul className="flex items-center gap-x-10 text-[13px] text-gray-800">
+                    <ul className="flex items-center gap-x-10 text-[20px] text-white">
                         <li><Link href="/work" className="transition-colors hover:text-gray-500">Proyectos</Link></li>
                         <li><Link href="/about" className="transition-colors hover:text-gray-500">Sobre mí</Link></li>
                         <li><Link href="/services" className="transition-colors hover:text-gray-500">Servicios</Link></li>
